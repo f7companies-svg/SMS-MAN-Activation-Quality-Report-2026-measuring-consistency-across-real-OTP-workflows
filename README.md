@@ -1,0 +1,1 @@
+# SMS-MAN-Activation-Quality-Report-2026-measuring-consistency-across-real-OTP-workflows
